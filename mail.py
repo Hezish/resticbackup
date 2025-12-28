@@ -50,7 +50,7 @@ def snapshot_maintenance(keep_last: int = 5, prune: bool = True):
 
 def show_stats():
 "~/MyWork/g_sync/Scripts/restictest.py" [noeol] 73L, 3360B
-from datetime import datetime
+#from datetime import datetime
 import os
 import sys
 from dotenv import load_dotenv
